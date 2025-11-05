@@ -38,11 +38,11 @@ public class Main {
         System.out.println("       2 (Raiz)");
         System.out.println("      /      \\");
         System.out.println("    (0)      (4)");
-        System.out.println("               / \\");
-        System.out.println("             (2) (4)");
-        System.out.println("                   \\");
-        System.out.println("                   (6)");
-        System.out.println("                   /  \\");
-        System.out.println("                 (4)   ()"); // NÓ (4) É FOLHA.
+        System.out.println("             / \\");
+        System.out.println("           (2) (4)");
+        System.out.println("                 \\");
+        System.out.println("                  (6)");
+        System.out.println("                 /  \\");
+        System.out.println("               (4)   ()"); // NÓ (4) É FOLHA.
     }
 }
